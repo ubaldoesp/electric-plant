@@ -1,0 +1,1 @@
+web: gunicorn planta_electrica.wsgi --log-file -
