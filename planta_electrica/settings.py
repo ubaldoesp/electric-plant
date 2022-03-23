@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'planta_electrica.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dda8hdb7ua24o2',
-        'USER': 'rsrxpmvfeikzmi',
-        'PASSWORD':'9ce6bfbc27b6f17af35287e9464a2236b27d348c334cc1c26999e933ed03694c',
-        'HOST': 'ec2-3-225-213-67.compute-1.amazonaws.com',
+        'NAME': 'd14mvpjap996p1',
+        'USER': 'xcyyafkymeeayf',
+        'PASSWORD':'1a75e65c5e092da5e6384ce9cb8105b074953e720b302ad2bf8266c4510a4767',
+        'HOST': 'ec2-44-194-92-192.compute-1.amazonaws.com',
         'PORT':'5432',
     }
 }
